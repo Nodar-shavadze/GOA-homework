@@ -1,0 +1,1 @@
+paint("day 0 homework")
